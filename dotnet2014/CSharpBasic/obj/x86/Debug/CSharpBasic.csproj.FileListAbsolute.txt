@@ -1,0 +1,17 @@
+D:\dotnet2014\CSharpBasic\bin\Debug\CSharpBasic.exe
+D:\dotnet2014\CSharpBasic\bin\Debug\CSharpBasic.pdb
+D:\dotnet2014\CSharpBasic\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\dotnet2014\CSharpBasic\obj\x86\Debug\CSharpBasic.exe
+D:\dotnet2014\CSharpBasic\obj\x86\Debug\CSharpBasic.pdb
+D:\Downloads\dotnet2014\CSharpBasic\obj\x86\Debug\CSharpBasic.exe
+D:\Downloads\dotnet2014\CSharpBasic\obj\x86\Debug\CSharpBasic.pdb
+D:\Downloads\dotnet2014\CSharpBasic\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Downloads\dotnet2014\CSharpBasic\bin\Debug\CSharpBasic.exe
+D:\Downloads\dotnet2014\CSharpBasic\bin\Debug\CSharpBasic.pdb
+C:\Documents and Settings\iu\桌面\201200800568高楚阳\dotnet2014\CSharpBasic\obj\x86\Debug\CSharpBasic.exe
+C:\Documents and Settings\iu\桌面\201200800568高楚阳\dotnet2014\CSharpBasic\obj\x86\Debug\CSharpBasic.pdb
+C:\Documents and Settings\iu\桌面\201200800568高楚阳\dotnet2014\CSharpBasic\bin\Debug\CSharpBasic.exe
+C:\Documents and Settings\iu\桌面\201200800568高楚阳\dotnet2014\CSharpBasic\bin\Debug\CSharpBasic.pdb
+C:\Documents and Settings\iu\桌面\201200800568高楚阳\dotnet2014\CSharpBasic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\CSharpBasic\obj\x86\Debug\CSharpBasic.exe
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\CSharpBasic\obj\x86\Debug\CSharpBasic.pdb

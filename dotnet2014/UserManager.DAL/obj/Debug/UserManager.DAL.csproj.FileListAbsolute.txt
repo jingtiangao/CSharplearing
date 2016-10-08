@@ -1,0 +1,9 @@
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.DAL\obj\Debug\UserManager.DAL.csprojResolveAssemblyReference.cache
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.DAL\bin\Debug\UserManager.DAL.dll
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.DAL\bin\Debug\UserManager.DAL.pdb
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.DAL\bin\Debug\ClassLibrary1.dll
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.DAL\bin\Debug\UserManager.Models.dll
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.DAL\bin\Debug\ClassLibrary1.pdb
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.DAL\bin\Debug\UserManager.Models.pdb
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.DAL\obj\Debug\UserManager.DAL.dll
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.DAL\obj\Debug\UserManager.DAL.pdb

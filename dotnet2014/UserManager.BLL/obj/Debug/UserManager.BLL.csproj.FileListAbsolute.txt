@@ -1,0 +1,11 @@
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.BLL\bin\Debug\UserManager.BLL.dll
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.BLL\bin\Debug\UserManager.BLL.pdb
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.BLL\bin\Debug\UserManager.DAL.dll
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.BLL\bin\Debug\UserManager.Models.dll
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.BLL\bin\Debug\ClassLibrary1.dll
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.BLL\bin\Debug\UserManager.DAL.pdb
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.BLL\bin\Debug\UserManager.Models.pdb
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.BLL\bin\Debug\ClassLibrary1.pdb
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.BLL\obj\Debug\UserManager.BLL.csprojResolveAssemblyReference.cache
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.BLL\obj\Debug\UserManager.BLL.dll
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.BLL\obj\Debug\UserManager.BLL.pdb

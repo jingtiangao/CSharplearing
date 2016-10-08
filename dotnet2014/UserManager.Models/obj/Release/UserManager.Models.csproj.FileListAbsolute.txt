@@ -1,0 +1,4 @@
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.Models\bin\Release\UserManager.Models.dll
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.Models\bin\Release\UserManager.Models.pdb
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.Models\obj\Release\UserManager.Models.dll
+C:\Users\gcy\Desktop\201200800568高楚阳\dotnet2014\UserManager.Models\obj\Release\UserManager.Models.pdb

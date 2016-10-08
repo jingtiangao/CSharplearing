@@ -1,0 +1,21 @@
+ //Connection
+        //1.定义连接字符串
+        string strConn = @"server=.\sqlexpress;database=userdb;Integrated Security=True;";//让字符串保持原意，不要转义 windos身份验证，不用写密码
+
+        //2.创建连接对象
+        using (SqlConnection conn = new SqlConnection(strConn))
+        {
+
+            string strSql = "Select * From T_User";
+            SqlCommand cmd = new SqlCommand(strSql, conn);//对conn对应的数据库做strSql指定SQL操作
+            conn.Open();
+            SqlDataReader reader = cmd.ExecuteReader();//
+            while (reader.Read())
+            {
+                Response.Write(reader["UserName"]+" "+reader["Password"]+" ");
+
+            }
+            else
+            {
+                Response.Write("表中无记录");
+            }

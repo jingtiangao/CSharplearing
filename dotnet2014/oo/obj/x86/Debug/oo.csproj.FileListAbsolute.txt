@@ -1,0 +1,18 @@
+D:\dotnet2014\oo\bin\Debug\oo.exe
+D:\dotnet2014\oo\bin\Debug\oo.pdb
+D:\dotnet2014\oo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\dotnet2014\oo\obj\x86\Debug\oo.exe
+D:\dotnet2014\oo\obj\x86\Debug\oo.pdb
+C:\Documents and Settings\iu\桌面\201200800568高楚阳\dotnet2014\oo\bin\Debug\oo.exe
+C:\Documents and Settings\iu\桌面\201200800568高楚阳\dotnet2014\oo\bin\Debug\oo.pdb
+C:\Documents and Settings\iu\桌面\201200800568高楚阳\dotnet2014\oo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\iu\桌面\201200800568高楚阳\dotnet2014\oo\obj\x86\Debug\oo.exe
+C:\Documents and Settings\iu\桌面\201200800568高楚阳\dotnet2014\oo\obj\x86\Debug\oo.pdb
+I:\201200800568高楚阳\dotnet2014\oo\obj\x86\Debug\oo.exe
+I:\201200800568高楚阳\dotnet2014\oo\obj\x86\Debug\oo.pdb
+I:\201200800568高楚阳\dotnet2014\oo\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\201200800568高楚阳\dotnet2014\oo\bin\Debug\oo.exe
+I:\201200800568高楚阳\dotnet2014\oo\bin\Debug\oo.pdb
+E:\201200800568高楚阳\dotnet2014\oo\obj\x86\Debug\oo.exe
+E:\201200800568高楚阳\dotnet2014\oo\obj\x86\Debug\oo.pdb
+E:\201200800568高楚阳\dotnet2014\oo\obj\x86\Debug\ResolveAssemblyReference.cache
